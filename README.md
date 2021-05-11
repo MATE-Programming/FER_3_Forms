@@ -4,4 +4,4 @@
      Подсказка: Для чекбоксов используйте тег <input type="checkbox" value="value">
 
 #### 1. Макет для верстки на HTML
-![alt MATE Programming Lab](https://github.com/MATE-Programming/FER_4/blob/main/lesson4.jpg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_3/MATE.jpg?raw=true?raw=true)
